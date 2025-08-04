@@ -1,4 +1,8 @@
-#include <iostream>
+#ifndef C_COUNT_H
+#define C_COUNT_H
 
-// count function should go here
+#include <string>
 
+int count(std::string input);
+
+#endif
